@@ -1,6 +1,6 @@
 # tech-notes
-Registro de anotações afim de facilitar futuras consultas
-## Próximos estudos
+Notes to facilitate future references
+## Next estudies
 - CSS
 - SQL
-- Git e GitHub
+- Git and GitHub
